@@ -13,7 +13,7 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Mission6" expanded="True">
-            <Node name="New Folder" expanded="True" selected="True">
+            <Node name="New Folder" expanded="True">
               <Node name="Mission6" expanded="True">
                 <Node name="Controllers" expanded="True" />
                 <Node name="Views" expanded="True">
